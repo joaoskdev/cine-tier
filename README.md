@@ -1,2 +1,2 @@
-# cine-tier
+# projeto-hired
 projeto
